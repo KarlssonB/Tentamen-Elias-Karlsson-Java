@@ -1,0 +1,12 @@
+[
+  {
+    "firstName": "Elias",
+    "lastName" : "Karlsson",
+    "favouriteMovie" : "Batman"
+  },
+  {
+    "firstName": "Kalle",
+    "lastName" : "Balle",
+    "favouriteMovie" : "Packman"
+}
+]
